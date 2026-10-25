@@ -7,6 +7,7 @@ extern "C" {
 #endif
 
 #include "efex-protocol.h"
+#include <sys/types.h>
 
 /**
  * @brief Execute a command at the given address.
